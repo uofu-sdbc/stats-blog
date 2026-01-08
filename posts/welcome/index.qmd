@@ -1,0 +1,23 @@
+---
+title: "Welcome to Stats Blog"
+description: "An introduction to our new statistics blog and what you can expect to find here."
+author: "Stats Team"
+date: "2026-01-08"
+categories: [news, welcome]
+image: ""
+---
+
+## Welcome!
+
+We're excited to launch this statistics blog where we'll be sharing:
+
+- Tutorials on statistical methods
+- Data visualization techniques
+- Real-world applications of statistics
+- Discussion of recent developments in the field
+
+## What to Expect
+
+Our posts will range from beginner-friendly introductions to more advanced topics. We aim to make statistics accessible and interesting for everyone.
+
+Stay tuned for more content!

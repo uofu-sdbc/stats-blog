@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+This is a statistics blog created with Quarto and hosted on GitHub Pages.
+
+## About the Blog
+
+Here we share insights, tutorials, and discussions about statistics, data science, and related topics.
