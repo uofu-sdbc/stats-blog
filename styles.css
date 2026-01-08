@@ -1,0 +1,45 @@
+/* Custom styles for the blog */
+
+.quarto-title-banner {
+  background-color: #3498db;
+  color: white;
+}
+
+.listing-item {
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.listing-item:last-child {
+  border-bottom: none;
+}
+
+.listing-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.listing-description {
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.listing-date {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+.listing-categories {
+  margin-top: 0.5rem;
+}
+
+.listing-category {
+  display: inline-block;
+  padding: 0.2rem 0.5rem;
+  background-color: #f0f0f0;
+  border-radius: 3px;
+  font-size: 0.85rem;
+  margin-right: 0.5rem;
+}
