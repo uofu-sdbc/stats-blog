@@ -1,0 +1,12 @@
+---
+title: "test blog"
+description: "An intro"
+author: "Stats Team"
+date: "2026-01-07"
+categories: [news, welcome]
+image: ""
+---
+
+## Welcome!
+
+This is a test
