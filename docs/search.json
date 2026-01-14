@@ -1,66 +1,17 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome to the SDBC Blog",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "We’re excited to launch this statistics blog where we’ll be sharing:\n\nTutorials on statistical methods\nData visualization techniques\nReal-world applications of statistics\nDiscussion of recent developments in the field"
+    "text": "This is a statistics blog created with Quarto and hosted on GitHub Pages."
   },
   {
-    "objectID": "posts/welcome/index.html#welcome",
-    "href": "posts/welcome/index.html#welcome",
-    "title": "Welcome to the SDBC Blog",
-    "section": "",
-    "text": "We’re excited to launch this statistics blog where we’ll be sharing:\n\nTutorials on statistical methods\nData visualization techniques\nReal-world applications of statistics\nDiscussion of recent developments in the field"
-  },
-  {
-    "objectID": "posts/welcome/index.html#what-to-expect",
-    "href": "posts/welcome/index.html#what-to-expect",
-    "title": "Welcome to the SDBC Blog",
-    "section": "What to Expect",
-    "text": "What to Expect\nOur posts will range from beginner-friendly introductions to more advanced topics. We aim to make statistics accessible and interesting for everyone.\nStay tuned for more content!"
-  },
-  {
-    "objectID": "posts/test/index.html",
-    "href": "posts/test/index.html",
-    "title": "test blog",
-    "section": "",
-    "text": "This is a test 2"
-  },
-  {
-    "objectID": "posts/test/index.html#welcome",
-    "href": "posts/test/index.html#welcome",
-    "title": "test blog",
-    "section": "",
-    "text": "This is a test 2"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html",
-    "href": "posts/data-visualization/index.html",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#why-data-visualization-matters",
-    "href": "posts/data-visualization/index.html#why-data-visualization-matters",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#key-principles",
-    "href": "posts/data-visualization/index.html#key-principles",
-    "title": "Introduction to Data Visualization",
-    "section": "Key Principles",
-    "text": "Key Principles\n\nKnow your audience: Tailor your visualizations to your audience’s needs and expertise\nChoose the right chart type: Different data types call for different visualizations\nKeep it simple: Avoid unnecessary complexity\nUse color purposefully: Color should enhance understanding, not distract"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#getting-started",
-    "href": "posts/data-visualization/index.html#getting-started",
-    "title": "Introduction to Data Visualization",
-    "section": "Getting Started",
-    "text": "Getting Started\nStart with the basics: bar charts, line graphs, and scatter plots. Master these fundamentals before moving on to more complex visualization types.\nStay tuned for more detailed tutorials on specific visualization techniques!"
+    "objectID": "about.html#about-the-blog",
+    "href": "about.html#about-the-blog",
+    "title": "About",
+    "section": "About the Blog",
+    "text": "About the Blog\nHere we share insights, tutorials, and discussions about statistics, data science, and related topics."
   },
   {
     "objectID": "posts/statistical-inference/index.html",
@@ -96,6 +47,69 @@
     "title": "Understanding Statistical Inference",
     "section": "Conclusion",
     "text": "Conclusion\nMastering statistical inference opens up powerful tools for making data-driven decisions. We’ll explore these topics in more depth in future posts."
+  },
+  {
+    "objectID": "posts/data-visualization/index.html",
+    "href": "posts/data-visualization/index.html",
+    "title": "Introduction to Data Visualization",
+    "section": "",
+    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#why-data-visualization-matters",
+    "href": "posts/data-visualization/index.html#why-data-visualization-matters",
+    "title": "Introduction to Data Visualization",
+    "section": "",
+    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#key-principles",
+    "href": "posts/data-visualization/index.html#key-principles",
+    "title": "Introduction to Data Visualization",
+    "section": "Key Principles",
+    "text": "Key Principles\n\nKnow your audience: Tailor your visualizations to your audience’s needs and expertise\nChoose the right chart type: Different data types call for different visualizations\nKeep it simple: Avoid unnecessary complexity\nUse color purposefully: Color should enhance understanding, not distract"
+  },
+  {
+    "objectID": "posts/data-visualization/index.html#getting-started",
+    "href": "posts/data-visualization/index.html#getting-started",
+    "title": "Introduction to Data Visualization",
+    "section": "Getting Started",
+    "text": "Getting Started\nStart with the basics: bar charts, line graphs, and scatter plots. Master these fundamentals before moving on to more complex visualization types.\nStay tuned for more detailed tutorials on specific visualization techniques!"
+  },
+  {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "test blog",
+    "section": "",
+    "text": "This is a test 2"
+  },
+  {
+    "objectID": "posts/test/index.html#welcome",
+    "href": "posts/test/index.html#welcome",
+    "title": "test blog",
+    "section": "",
+    "text": "This is a test 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome to the SDBC Blog",
+    "section": "",
+    "text": "We’re excited to launch this statistics blog where we’ll be sharing:\n\nTutorials on statistical methods\nData visualization techniques\nReal-world applications of statistics\nDiscussion of recent developments in the field"
+  },
+  {
+    "objectID": "posts/welcome/index.html#welcome",
+    "href": "posts/welcome/index.html#welcome",
+    "title": "Welcome to the SDBC Blog",
+    "section": "",
+    "text": "We’re excited to launch this statistics blog where we’ll be sharing:\n\nTutorials on statistical methods\nData visualization techniques\nReal-world applications of statistics\nDiscussion of recent developments in the field"
+  },
+  {
+    "objectID": "posts/welcome/index.html#what-to-expect",
+    "href": "posts/welcome/index.html#what-to-expect",
+    "title": "Welcome to the SDBC Blog",
+    "section": "What to Expect",
+    "text": "What to Expect\nOur posts will range from beginner-friendly introductions to more advanced topics. We aim to make statistics accessible and interesting for everyone.\nStay tuned for more content!"
   },
   {
     "objectID": "index.html",
