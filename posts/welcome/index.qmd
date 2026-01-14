@@ -1,5 +1,5 @@
 ---
-title: "Welcome to Stats Blog"
+title: "Welcome to the SDBC Blog"
 description: "An introduction to our new statistics blog and what you can expect to find here."
 author: "Stats Team"
 date: "2026-01-08"

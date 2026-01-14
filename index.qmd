@@ -1,5 +1,5 @@
 ---
-title: "SDBC Blog"
+title: "Study Design and Biostatistics Center"
 listing:
   contents: posts
   sort: "date desc"
@@ -11,4 +11,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-Welcome to the Stats Blog! Browse our latest articles below.
+Welcome to the Study Design and Biostatistics Center (SDBC) blog. Here we share updates on ongoing research, methodological insights, and collaborative projects supporting clinical and population health research.
