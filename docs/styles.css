@@ -1,7 +1,7 @@
-/* Custom styles for the blog */
+/* Custom styles for the blog - University of Utah Theme */
 
 .quarto-title-banner {
-  background-color: #3498db;
+  background-color: #CC0000;
   color: white;
 }
 
@@ -42,4 +42,21 @@
   border-radius: 3px;
   font-size: 0.85rem;
   margin-right: 0.5rem;
+  border: 1px solid #CC0000;
+  color: #333;
+}
+
+/* University of Utah branded links */
+a {
+  color: #CC0000;
+}
+
+a:hover {
+  color: #990000;
+  text-decoration: underline;
+}
+
+/* Navbar styling for Utah theme */
+.navbar {
+  border-bottom: 3px solid #CC0000;
 }
