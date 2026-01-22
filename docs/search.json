@@ -14,83 +14,6 @@
     "text": "About the Blog\nHere we share insights, tutorials, and discussions about statistics, data science, and related topics."
   },
   {
-    "objectID": "posts/statistical-inference/index.html",
-    "href": "posts/statistical-inference/index.html",
-    "title": "Understanding Statistical Inference",
-    "section": "",
-    "text": "Statistical inference is the process of using data from a sample to make conclusions about a larger population. It’s one of the core concepts in statistics."
-  },
-  {
-    "objectID": "posts/statistical-inference/index.html#what-is-statistical-inference",
-    "href": "posts/statistical-inference/index.html#what-is-statistical-inference",
-    "title": "Understanding Statistical Inference",
-    "section": "",
-    "text": "Statistical inference is the process of using data from a sample to make conclusions about a larger population. It’s one of the core concepts in statistics."
-  },
-  {
-    "objectID": "posts/statistical-inference/index.html#key-concepts",
-    "href": "posts/statistical-inference/index.html#key-concepts",
-    "title": "Understanding Statistical Inference",
-    "section": "Key Concepts",
-    "text": "Key Concepts\n\nHypothesis Testing\nHypothesis testing allows us to make decisions or draw conclusions about population parameters based on sample data.\n\n\nConfidence Intervals\nConfidence intervals provide a range of plausible values for a population parameter, along with a level of confidence.\n\n\nP-Values\nUnderstanding p-values is crucial for interpreting statistical tests correctly."
-  },
-  {
-    "objectID": "posts/statistical-inference/index.html#practical-applications",
-    "href": "posts/statistical-inference/index.html#practical-applications",
-    "title": "Understanding Statistical Inference",
-    "section": "Practical Applications",
-    "text": "Practical Applications\nStatistical inference is used in:\n\nClinical trials\nQuality control\nSurvey analysis\nA/B testing\nScientific research"
-  },
-  {
-    "objectID": "posts/statistical-inference/index.html#conclusion",
-    "href": "posts/statistical-inference/index.html#conclusion",
-    "title": "Understanding Statistical Inference",
-    "section": "Conclusion",
-    "text": "Conclusion\nMastering statistical inference opens up powerful tools for making data-driven decisions. We’ll explore these topics in more depth in future posts."
-  },
-  {
-    "objectID": "posts/data-visualization/index.html",
-    "href": "posts/data-visualization/index.html",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#why-data-visualization-matters",
-    "href": "posts/data-visualization/index.html#why-data-visualization-matters",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "Data visualization is a crucial skill for anyone working with data. Good visualizations can:\n\nReveal patterns and trends\nCommunicate insights effectively\nMake complex data accessible\nSupport data-driven decision making"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#key-principles",
-    "href": "posts/data-visualization/index.html#key-principles",
-    "title": "Introduction to Data Visualization",
-    "section": "Key Principles",
-    "text": "Key Principles\n\nKnow your audience: Tailor your visualizations to your audience’s needs and expertise\nChoose the right chart type: Different data types call for different visualizations\nKeep it simple: Avoid unnecessary complexity\nUse color purposefully: Color should enhance understanding, not distract"
-  },
-  {
-    "objectID": "posts/data-visualization/index.html#getting-started",
-    "href": "posts/data-visualization/index.html#getting-started",
-    "title": "Introduction to Data Visualization",
-    "section": "Getting Started",
-    "text": "Getting Started\nStart with the basics: bar charts, line graphs, and scatter plots. Master these fundamentals before moving on to more complex visualization types.\nStay tuned for more detailed tutorials on specific visualization techniques!"
-  },
-  {
-    "objectID": "posts/test/index.html",
-    "href": "posts/test/index.html",
-    "title": "test blog",
-    "section": "",
-    "text": "This is a test 2"
-  },
-  {
-    "objectID": "posts/test/index.html#welcome",
-    "href": "posts/test/index.html#welcome",
-    "title": "test blog",
-    "section": "",
-    "text": "This is a test 2"
-  },
-  {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
     "title": "Welcome to the SDBC Blog",
@@ -112,10 +35,24 @@
     "text": "What to Expect\nOur posts will range from beginner-friendly introductions to more advanced topics. We aim to make statistics accessible and interesting for everyone.\nStay tuned for more content!"
   },
   {
+    "objectID": "posts/test/index.html",
+    "href": "posts/test/index.html",
+    "title": "test blog",
+    "section": "",
+    "text": "This is a test 2"
+  },
+  {
+    "objectID": "posts/test/index.html#welcome",
+    "href": "posts/test/index.html#welcome",
+    "title": "test blog",
+    "section": "",
+    "text": "This is a test 2"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Study Design and Biostatistics Center",
     "section": "",
-    "text": "Welcome to the Study Design and Biostatistics Center (SDBC) blog. Here we share updates on ongoing research, methodological insights, and collaborative projects supporting clinical and population health research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the SDBC Blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\nAn introduction to our new statistics blog and what you can expect to find here.\n\n\n\n\n\nJan 8, 2026\n\n\nStats Team\n\n\n\n\n\n\n\n\n\n\n\n\ntest blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\nAn intro\n\n\n\n\n\nJan 7, 2026\n\n\nStats Team\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\nvisualization\n\n\ntutorial\n\n\n\nLearn the fundamentals of effective data visualization and best practices for presenting statistical information.\n\n\n\n\n\nJan 6, 2026\n\n\nData Viz Team\n\n\n\n\n\n\n\n\n\n\n\n\nUnderstanding Statistical Inference\n\n\n\n\n\n\nstatistics\n\n\ninference\n\n\ntutorial\n\n\n\nA comprehensive guide to statistical inference, hypothesis testing, and confidence intervals.\n\n\n\n\n\nJan 1, 2026\n\n\nStats Team\n\n\n\n\n\n\nNo matching items"
+    "text": "Welcome to the Study Design and Biostatistics Center (SDBC) blog. Here we share updates on ongoing research, methodological insights, and collaborative projects supporting clinical and population health research.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome to the SDBC Blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\nAn introduction to our new statistics blog and what you can expect to find here.\n\n\n\n\n\nJan 8, 2026\n\n\nStats Team\n\n\n\n\n\n\n\n\n\n\n\n\ntest blog\n\n\n\n\n\n\nnews\n\n\nwelcome\n\n\n\nAn intro\n\n\n\n\n\nJan 7, 2026\n\n\nStats Team\n\n\n\n\n\n\nNo matching items"
   }
 ]

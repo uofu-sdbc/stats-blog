@@ -3,9 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/posts/welcome/index.html",
-      "/posts/test/index.html",
-      "/posts/data-visualization/index.html",
-      "/posts/statistical-inference/index.html"
+      "/posts/test/index.html"
     ]
   }
 ]
