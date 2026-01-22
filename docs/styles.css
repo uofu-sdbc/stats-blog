@@ -70,3 +70,24 @@ a:hover {
 .navbar {
   border-bottom: 3px solid #CC0000;
 }
+
+/* --- Blog post / listing image sizing (Quarto) --- */
+
+/* Control the hero/banner image shown at the top of a post when `image:` is set in YAML */
+.quarto-title-banner img,
+.quarto-title-block .quarto-title-banner img,
+.quarto-title-block .quarto-title-banner .quarto-title-banner-img img {
+  width: 100%;
+  max-height: 360px; /* adjust this value to make the banner taller/shorter */
+  object-fit: cover; /* use `contain` if you prefer no cropping */
+}
+
+/* Control thumbnail images in blog listings/cards */
+.quarto-post .thumbnail img,
+.quarto-listing .thumbnail img,
+.quarto-listing .card-img-top,
+.quarto-listing .listing-image img {
+  width: 80%;
+  max-height: 380px; /* adjust thumbnail height */
+  object-fit: cover;
+}
